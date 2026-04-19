@@ -1,0 +1,12 @@
+Register No : 101
+Name        : Arun
+Department  : CSE
+Year        : 3
+
+Hall        : Hall A
+Seat No     : 1
+Exam Date   : 2026-04-20
+
+Staff       : Ravi
+Staff Dept  : CSE
+Phone       : 9876543210

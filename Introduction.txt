@@ -1,0 +1,2 @@
+Exam Hall Seating Allotment System:
+				The Exam Hall Seating Allotment System is a web-based application developed using PHP and MySQL. It helps in automatically assigning seats to students for examinations. This system reduces manual work, avoids errors, and ensures proper arrangement of students in exam halls.
